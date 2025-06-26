@@ -15,26 +15,32 @@ This is a simple Python web application built with **Streamlit** that allows use
 
 ## Project Structure
 
+```bash
 factorial_app/
 ├── factorial.py
 ├── main.py
 ├── user.py  
 └── README.md
+```
 
 ## Getting Started
 
 1. Clone the repository:
-
+    ```bash
     git clone https://github.com/vongla345/factorial_calculator.git  
     cd factorial_calculator  
+    ```
 
 2. Install dependencies:
 
+    ```bash
     pip install -r requirements.txt  
-
+    ```
 3. Run the app:
 
+    ```bash
     streamlit run main.py
+    ```
 
 ## Authentication
 
